@@ -1,4 +1,5 @@
 {
+  "name": "@antipodes/style-framework",
   "devDependencies": {
     "rfs": "^9.0.6"
   }
