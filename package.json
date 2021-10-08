@@ -1,10 +1,6 @@
 {
   "name": "@antipodes-medical/style-framework",
   "version": "1.0.5",
-  "devDependencies": {
-    "rfs": "^9.0.6"
-  },
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
