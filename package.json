@@ -1,5 +1,8 @@
 {
   "name": "@antipodes/style-framework",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "rfs": "^9.0.6"
   },
