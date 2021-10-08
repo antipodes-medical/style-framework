@@ -2,7 +2,7 @@
   "name": "@antipodes-medical/style-framework",
   "version": "1.0.0",
   "publishConfig": {
-    "antipodes-medical:registry": "https://npm.pkg.github.com"
+    "@antipodes-medical:registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "rfs": "^9.0.6"
