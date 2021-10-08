@@ -2,8 +2,8 @@
   "name": "@antipodes/style-framework",
   "version": "0.1.2",
   "publishConfig": {
-   "androlax2:registry": "https://npm.pkg.github.com"
- },
+    "androlax2:registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "rfs": "^9.0.6"
   },
