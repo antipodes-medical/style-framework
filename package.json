@@ -1,6 +1,6 @@
 {
   "name": "@antipodes-medical/style-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "@antipodes-medical:registry": "https://npm.pkg.github.com"
   },
