@@ -1,10 +1,25 @@
 {
   "name": "@antipodes/style-framework",
+  "version": "0.1.2",
   "publishConfig": {
-    "access": "public"
-  },
+   "androlax2:registry": "https://npm.pkg.github.com"
+ },
   "devDependencies": {
     "rfs": "^9.0.6"
   },
-  "version": "0.1.0"
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antipodes-medical/style-framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antipodes-medical/style-framework/issues"
+  },
+  "homepage": "https://github.com/antipodes-medical/style-framework#readme",
+  "description": ""
 }
