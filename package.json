@@ -1,9 +1,6 @@
 {
   "name": "@antipodes-medical/style-framework",
-  "version": "1.0.1",
-  "publishConfig": {
-    "@antipodes-medical:registry": "https://npm.pkg.github.com"
-  },
+  "version": "1.0.4",
   "devDependencies": {
     "rfs": "^9.0.6"
   },
@@ -21,5 +18,8 @@
     "url": "https://github.com/antipodes-medical/style-framework/issues"
   },
   "homepage": "https://github.com/antipodes-medical/style-framework#readme",
+  "dependencies": {
+    "postcss-value-parser": "^4.1.0"
+  },
   "description": ""
 }
